@@ -1,0 +1,16 @@
+.container{
+    margin-bottom: 50px;
+}
+.carousel-item{
+   
+    padding: 20px 40px;
+   
+}
+
+.buy-now {
+  background-color: black;
+  color: white;
+  border-radius: 8px;
+  padding: 9px 10px;
+  border: none;
+  cursor: pointer;
