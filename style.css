@@ -14,3 +14,25 @@
   padding: 9px 10px;
   border: none;
   cursor: pointer;
+  text-align: center;
+}
+
+.container{
+    margin-bottom: 50px;
+}
+
+.phn{
+    border:none
+}
+
+.card{
+    border: none;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px lightgray;
+    text-align: center;
+}
+.cat-border {
+  border-bottom: 10px solid #FFBB24;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
